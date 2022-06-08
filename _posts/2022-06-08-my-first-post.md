@@ -12,6 +12,8 @@ toc_sticky: true
 
 date: 2022-06-08
 last_modified_at: 2022-06-08
+
+side bar : nav : "foo"
 ---
 
 # 5. 포스트 내용을 마크다운 문법으로 작성한다.
