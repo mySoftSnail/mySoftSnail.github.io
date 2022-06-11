@@ -188,3 +188,20 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ```
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+# Check List
+```
+- [ ] 체크 안 됨
+- [x] 체크 됨
+```
+- [ ] 체크 안 됨
+- [x] 체크 됨
+
+# 구분선
+```
+***
+---
+```
+
+***
+---
